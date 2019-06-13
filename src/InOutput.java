@@ -20,3 +20,32 @@ public class InOutput {
             System.out.println("The average value is : " + (num1 + num2)/2);
         }
     }
+
+
+
+public class ES {
+
+        public static void main(String[] args) {
+
+            System.out.println("***** ");
+            System.out.println("*\t*");
+            System.out.println("*\t*");
+            System.out.println("*\t*");
+            System.out.println("*\t*");
+            System.out.println("***** ");
+            System.out.println("");
+            System.out.println("");
+            System.out.println("   **");
+            System.out.println(" *   *");
+            System.out.println(" *   *");
+            System.out.println("  *  *");
+            System.out.println("   **");
+            System.out.println("");
+            System.out.println("");
+            System.out.println("  *");
+            System.out.println(" * *");
+            System.out.println("*   *");
+            System.out.println(" * *");
+            System.out.println("  *");
+    }
+}
