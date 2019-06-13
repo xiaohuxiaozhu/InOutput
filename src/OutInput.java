@@ -7,22 +7,22 @@ public class OutInput {
 
         Scanner keyboard = new Scanner(System.in);
 
-        System.out.println("Enter First Initial");
+        System.out.println("Please Enter First Initial");
         String firstInitial = keyboard.next();
 
-        System.out.println("Enter Last Name");
+        System.out.println("Please Enter Last Name");
         String lastName = keyboard.next();
 
-        System.out.println("Enter House Number");
+        System.out.println("Please Enter House Number");
         int houseNumber = keyboard.nextInt();
 
-        System.out.println("Enter Street Name");
+        System.out.println("Please Enter Street Name");
         String streetName = keyboard.next();
 
-        System.out.println("Enter Street Type");
+        System.out.println("Please Enter Street Type");
         String streetType = keyboard.next();
 
-        System.out.println("Enter City");
+        System.out.println("Please Enter City");
         String city = keyboard.next();
 
         System.out.print(firstInitial + " " + lastName + " " + houseNumber + " ");
